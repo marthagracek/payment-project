@@ -26,6 +26,6 @@ End-to-end data analytics project analyzing 99,441 real Brazilian e-commerce ord
 
 ## Dataset
 Brazilian E-Commerce Public Dataset by Olist
-99,441 real orders fr
+99,441 real orders 
 
 https://public.tableau.com/app/profile/martha.grace.kommuguri2215/viz/Book1_17720288635240/Dashboard1?publish=yes
